@@ -1,6 +1,6 @@
 # Vim ALE Plugin Python
 
-Vim plugin for python seyntax highlighting, linting and error detection
+Vim plugin for python syntax highlighting, linting and error detection
 
 Created by: Isha Singh
 
